@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
+        <file>qml/DatabaseExplorer.qml</file>
         <file>main.qml</file>
+        <file>OpenLain_en_US.ts</file>
+        <file>gamedata/textures/_lain_spin.gif</file>
     </qresource>
 </RCC>
