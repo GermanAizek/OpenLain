@@ -4,5 +4,8 @@
         <file>main.qml</file>
         <file>OpenLain_en_US.ts</file>
         <file>gamedata/textures/_lain_spin.gif</file>
+        <file>qml/MainMenu.qml</file>
+        <file>gamedata/textures/anim_progress.png</file>
+        <file>qml/Loading.qml</file>
     </qresource>
 </RCC>
